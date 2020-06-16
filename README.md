@@ -58,7 +58,6 @@
 ### Pré-requisitos
 
 - Yarn ou npm
-- PostgreSQL
 
 ### Como executar
 

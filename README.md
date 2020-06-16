@@ -1,6 +1,6 @@
 
 <h1 align="center">
- GitHub Explorer
+<img alt="Aircnc" src="src/assets/logo.svg" width="250px" />
 </h1>
 
 <h3 align="center">
@@ -12,12 +12,12 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igortuag/github-explorer">
 
-  	
+
   <a href="https://www.linkedin.com/in/igortuag/">
     <img alt="Made by Igor Tuag" src="https://img.shields.io/badge/made%20by-Igort--Tuag-%2304D361">
   </a>
-	
-  
+
+
   <a href="https://github.com/igortuag/github-explorer/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igortuag/github-explorer">
   </a>
@@ -33,7 +33,8 @@
 </p>
 
 ## Layout
-🚧 🚀 em construção... 🚧
+<img src=".github/gitExplorerDemo.gif">
+
 
 ## :rocket: Sobre o projeto
 
